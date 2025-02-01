@@ -1,3 +1,7 @@
+# fyp_machine_unlearning
+
+## Latent Attack:
+
 # Discovering Latent Knowledge Without Supervision
 
 This repository contains the essential code for Discovering Latent Knowledge in Language Models Without Supervision.
